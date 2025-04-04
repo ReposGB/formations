@@ -1,0 +1,18 @@
+---
+title: "Formation et Cours en Bioinformatique et Informatique"
+---
+
+Ce site regroupe l'ensemble des cours et formations en Bioinformatique et Informatique que je donne en tant qu'intervenant ou formateur.
+
+| Titre | Niveau | Supports | TD/Tutoriel | Données |
+|---------------------------------------|---------|---------|---------|---------|
+| **Analyse bioinformatique des données moléculaires à haut débit en Oncologie** | M1 | [Support](./cours/Cours-Master-M1-Genomique-Variants_RNA_Seq.html) |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
