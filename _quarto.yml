@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Formations_Web_Site"
+  title: "Supports de formations en Bioinformatique"
   navbar:
     left:
       - href: index.qmd

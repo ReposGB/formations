@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "À propos"
+format: html
 ---
 
-About this site
+# À propos de moi
 
-```{r}
-1 + 1
-```
+Je suis **Ghislain BIDAUT**, Ingénieur de Recherche à **Aix-Marseille Université**, spécialisé en **bioinformatique** et en **informatique appliquée aux sciences du vivant**.
+
+Mon objectif est de transmettre aux étudiantes et étudiants les **méthodes et outils pratiques** qui leur permettront d’analyser et d’interpréter des données biologiques complexes.
+
+::: callout-note
+Les supports disponibles sur ce site privilégient une approche **pratique et progressive**, afin de guider pas à pas dans l’acquisition des compétences.
+:::
+
+------------------------------------------------------------------------
+
+## Licence
+
+L’ensemble des supports pédagogiques est diffusé sous licence :
+
+[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/){rel="license" style="border-width:0"}\
+**Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**
