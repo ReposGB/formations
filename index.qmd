@@ -23,8 +23,8 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 
 | Titre | Niveau | Supports |
 |------------------------|------------------------|------------------------|
-| **Analyse bioinformatique des données moléculaires à haut débit en Oncologie** | M1 | [Support](./cours/Cours-Master-M1-Genomique-Variants_RNA_Seq.html) |
-| **Data classification and application in genomics and transcriptomics** | M2 | [Support](./cours/M2-Bio-Sante-IA-Biomarkers-Classif-Genomics-Data.html) |
+| **Analyse bioinformatique des données moléculaires à haut débit en Oncologie** | M1 | [Support](./cours/Cours-M1-Variants_DNA_Seq_RNA_Seq.html) |
+| **Data classification and application in genomics and transcriptomics** | M2 | [Support](./cours/Course-M2-Classif-Genomics-Data.html) |
 | **Analyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq** | M2 | [Support](./cours/Cours-M2_RNA-Seq_Single-Cell.html) |
 | **Introduction à la bioinformatique en Oncologie** | M2 | [Support](./cours/Cours-M2-Intro-Bioinfo-Onco.html) |
 | **Biological networks and human diseases** | M2 | [Support](./cours/Course-M2-Networks-Human-Disease.pdf) |
