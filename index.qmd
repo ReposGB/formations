@@ -25,9 +25,9 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 |------------------------|------------------------|------------------------|
 | **Analyse bioinformatique des données moléculaires à haut débit en Oncologie** | M1 | [Support](./cours/Cours-Master-M1-Genomique-Variants_RNA_Seq.html) |
 | **Data classification and application in genomics and transcriptomics** | M2 | [Support](./cours/M2-Bio-Sante-IA-Biomarkers-Classif-Genomics-Data.html) |
-| **Analyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq** | M2 | [Support](./cours/Cours-M2_Technologies-de-la-Santé_RNA-Seq_Single-Cell.html) |
-| **Introduction à la bioinformatique en Oncologie** | M2 | [Support](./cours/ours-Intro-Bioinfo-Onco-M2-Biologie-Santé-Tronc-Commun-Genomique.html) |
-| **Biological networks and human diseases** | M2 | [Support](./cours/M2-Biologie-Santé-Genomique-Réseaux-Biologiques-et-Maladies-Humaines.pdf) |
+| **Analyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq** | M2 | [Support](./cours/Cours-M2_RNA-Seq_Single-Cell.html) |
+| **Introduction à la bioinformatique en Oncologie** | M2 | [Support](./cours/Cours-M2-Intro-Bioinfo-Onco.html) |
+| **Biological networks and human diseases** | M2 | [Support](./cours/Course-M2-Networks-Human-Disease.pdf) |
 
 ## Travaux Dirigés
 
