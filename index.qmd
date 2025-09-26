@@ -10,12 +10,11 @@
 Bienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de **bioinformatique**.
 
 ::: callout-note
-La majorité des documents proposés sont des *slides* au format **PDF**, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.
+La majorité des documents proposés sont des *slides* au format **HTML**, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.
 :::
 
 Les **travaux dirigés (TDs)** sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.
 
-Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charger directement dans le logiciel **RStudio**.
 
 ------------------------------------------------------------------------
 
