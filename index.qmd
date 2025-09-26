@@ -1,4 +1,4 @@
-# Formations et Cours en Bioinformatique
+# Formations en Bioinformatique
 
 **Ghislain BIDAUT**\
 *Ingénieur de Recherche — Aix-Marseille Université*
@@ -19,7 +19,7 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 
 ------------------------------------------------------------------------
 
-## Supports de cours magistraux
+## Supports de cours
 
 | Titre | Niveau | Supports |
 |------------------------|------------------------|------------------------|
