@@ -15,7 +15,6 @@ La majorité des documents proposés sont des *slides* au format **PDF**, volont
 
 Les **travaux dirigés (TDs)** sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.
 
-Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charger directement dans le logiciel **RStudio**.
 
 ------------------------------------------------------------------------
 
