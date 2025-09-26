@@ -17,7 +17,4 @@ Les supports disponibles sur ce site privilégient une approche **pratique et pr
 
 ## Licence
 
-L’ensemble des supports pédagogiques est diffusé sous licence :
-
-[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/){rel="license" style="border-width:0"}\
-**Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**
+{{< include _includes/licence.qmd >}}

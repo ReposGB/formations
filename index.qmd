@@ -1,4 +1,4 @@
-# Formation et Cours en Bioinformatique et Informatique
+# Formation et Cours en Bioinformatique
 
 **Ghislain BIDAUT**\
 *Ingénieur de Recherche — Aix-Marseille Université*
@@ -7,7 +7,7 @@
 
 ## Présentation
 
-Bienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de **bioinformatique** et d’**informatique**.
+Bienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de **bioinformatique**.
 
 ::: callout-note
 La majorité des documents proposés sont des *slides* au format **PDF**, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.
@@ -46,20 +46,4 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 
 ## Licence
 
-::: {.card style="max-width: 700px; margin: auto; text-align: center; padding: 1.2em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 0.5rem;"}
-
-L’ensemble des supports pédagogiques est diffusé sous licence :  
-
-[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/){rel="license" style="border-width:0"}  
-
-**Creative Commons Attribution – Pas d’Utilisation Commerciale –  
-Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**  
-
----
-
-All teaching materials on this site are licensed under:  
-
-[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/){rel="license" style="border-width:0"}  
-
-**Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
-:::
+{{< include _includes/licence.qmd >}}

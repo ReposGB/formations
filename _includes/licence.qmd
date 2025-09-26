@@ -1,0 +1,7 @@
+::: {.card style="max-width: 750px; margin: auto; text-align: center; padding: 1.2em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 0.5rem;"}
+[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+| 🇫🇷 Français | 🇬🇧 English |
+|------------------------------------|------------------------------------|
+| **L’ensemble des supports pédagogiques est diffusé sous licence :**<br>Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0) | **All teaching materials on this site are licensed under:**<br>Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0) |
+:::

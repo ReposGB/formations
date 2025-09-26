@@ -4,55 +4,55 @@
     "href": "about.html",
     "title": "À propos",
     "section": "",
-    "text": "Je suis Ghislain BIDAUT, Ingénieur de Recherche à Aix-Marseille Université, spécialisé en bioinformatique et en informatique appliquée aux sciences du vivant.\nMon objectif est de transmettre aux étudiantes et étudiants les méthodes et outils pratiques qui leur permettront d’analyser et d’interpréter des données biologiques complexes.\n\n\n\n\n\n\nNote\n\n\n\nLes supports disponibles sur ce site privilégient une approche pratique et progressive, afin de guider pas à pas dans l’acquisition des compétences.\n\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :\n\nCreative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)"
+    "text": "Je suis Ghislain BIDAUT, Ingénieur de Recherche à Aix-Marseille Université, spécialisé en bioinformatique et en informatique appliquée aux sciences du vivant.\nMon objectif est de transmettre aux étudiantes et étudiants les méthodes et outils pratiques qui leur permettront d’analyser et d’interpréter des données biologiques complexes.\n\n\n\n\n\n\nNote\n\n\n\nLes supports disponibles sur ce site privilégient une approche pratique et progressive, afin de guider pas à pas dans l’acquisition des compétences.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🇫🇷 Français\n🇬🇧 English\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)\nAll teaching materials on this site are licensed under:Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
   },
   {
     "objectID": "about.html#licence",
     "href": "about.html#licence",
     "title": "À propos",
     "section": "",
-    "text": "L’ensemble des supports pédagogiques est diffusé sous licence :\n\nCreative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)"
+    "text": "🇫🇷 Français\n🇬🇧 English\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)\nAll teaching materials on this site are licensed under:Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
-    "text": "Ghislain BIDAUT\nIngénieur de Recherche — Aix-Marseille Université\n\n\n\nBienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de bioinformatique et d’informatique.\n\n\n\n\n\n\nNote\n\n\n\nLa majorité des documents proposés sont des slides au format PDF, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.\n\n\nLes travaux dirigés (TDs) sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.\nLes données sont fournies sous forme d’objets R (.RData), à charger directement dans le logiciel RStudio.\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nAnalyse bioinformatique des données moléculaires à haut débit en Oncologie\nM1\nSupport\n\n\nData classification and application in genomics and transcriptomics\nM2\nSupport\n\n\nAnalyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq\nM2\nSupport\n\n\nIntroduction à la bioinformatique en Oncologie\nM2\nSupport\n\n\nBiological networks and human diseases\nM2\nSupport\n\n\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nEtude d’un pipeline d’appel de variants constitutionnels\nM2\nSupport\n\n\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nTraiter ses données NGS (DNA-seq et RNA-seq) sous Linux\nFormation permanente\nSite web\n\n\nAnalyser ses données de séquençage NGS RNA-seq sous R/Bioconductor\nFormation permanente\nSite web\n\n\nTraiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul\nFormation Permanente\nSite web\n\n\nPrise en main des analyses de données scRNA-Seq sous R+RStudio\nFormation permanente\nSite web\n\n\n\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :\n\nCreative Commons Attribution – Pas d’Utilisation Commerciale –\nPas de Modification 4.0 International (CC BY-NC-ND 4.0)\n\nAll teaching materials on this site are licensed under:\n\nCreative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+    "text": "Ghislain BIDAUT\nIngénieur de Recherche — Aix-Marseille Université\n\n\n\nBienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de bioinformatique.\n\n\n\n\n\n\nNote\n\n\n\nLa majorité des documents proposés sont des slides au format PDF, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.\n\n\nLes travaux dirigés (TDs) sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.\nLes données sont fournies sous forme d’objets R (.RData), à charger directement dans le logiciel RStudio.\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nAnalyse bioinformatique des données moléculaires à haut débit en Oncologie\nM1\nSupport\n\n\nData classification and application in genomics and transcriptomics\nM2\nSupport\n\n\nAnalyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq\nM2\nSupport\n\n\nIntroduction à la bioinformatique en Oncologie\nM2\nSupport\n\n\nBiological networks and human diseases\nM2\nSupport\n\n\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nEtude d’un pipeline d’appel de variants constitutionnels\nM2\nSupport\n\n\n\n\n\n\n\n\n\nTitre\nNiveau\nSupports\n\n\n\n\nTraiter ses données NGS (DNA-seq et RNA-seq) sous Linux\nFormation permanente\nSite web\n\n\nAnalyser ses données de séquençage NGS RNA-seq sous R/Bioconductor\nFormation permanente\nSite web\n\n\nTraiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul\nFormation Permanente\nSite web\n\n\nPrise en main des analyses de données scRNA-Seq sous R+RStudio\nFormation permanente\nSite web\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🇫🇷 Français\n🇬🇧 English\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)\nAll teaching materials on this site are licensed under:Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
   },
   {
     "objectID": "index.html#présentation",
     "href": "index.html#présentation",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
-    "text": "Bienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de bioinformatique et d’informatique.\n\n\n\n\n\n\nNote\n\n\n\nLa majorité des documents proposés sont des slides au format PDF, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.\n\n\nLes travaux dirigés (TDs) sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.\nLes données sont fournies sous forme d’objets R (.RData), à charger directement dans le logiciel RStudio."
+    "text": "Bienvenue sur cette page qui regroupe les supports utilisés dans mes enseignements de bioinformatique.\n\n\n\n\n\n\nNote\n\n\n\nLa majorité des documents proposés sont des slides au format PDF, volontairement synthétiques, conçus pour accompagner le cours et en souligner les points essentiels.\n\n\nLes travaux dirigés (TDs) sont quant à eux plus détaillés et permettent un apprentissage progressif, pas à pas.\nLes données sont fournies sous forme d’objets R (.RData), à charger directement dans le logiciel RStudio."
   },
   {
     "objectID": "index.html#supports-de-cours-magistraux",
     "href": "index.html#supports-de-cours-magistraux",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
     "text": "Titre\nNiveau\nSupports\n\n\n\n\nAnalyse bioinformatique des données moléculaires à haut débit en Oncologie\nM1\nSupport\n\n\nData classification and application in genomics and transcriptomics\nM2\nSupport\n\n\nAnalyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq\nM2\nSupport\n\n\nIntroduction à la bioinformatique en Oncologie\nM2\nSupport\n\n\nBiological networks and human diseases\nM2\nSupport"
   },
   {
     "objectID": "index.html#travaux-dirigés",
     "href": "index.html#travaux-dirigés",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
     "text": "Titre\nNiveau\nSupports\n\n\n\n\nEtude d’un pipeline d’appel de variants constitutionnels\nM2\nSupport"
   },
   {
     "objectID": "index.html#formations",
     "href": "index.html#formations",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
     "text": "Titre\nNiveau\nSupports\n\n\n\n\nTraiter ses données NGS (DNA-seq et RNA-seq) sous Linux\nFormation permanente\nSite web\n\n\nAnalyser ses données de séquençage NGS RNA-seq sous R/Bioconductor\nFormation permanente\nSite web\n\n\nTraiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul\nFormation Permanente\nSite web\n\n\nPrise en main des analyses de données scRNA-Seq sous R+RStudio\nFormation permanente\nSite web"
   },
   {
     "objectID": "index.html#licence",
     "href": "index.html#licence",
-    "title": "Formation et Cours en Bioinformatique et Informatique",
+    "title": "Formation et Cours en Bioinformatique",
     "section": "",
-    "text": "L’ensemble des supports pédagogiques est diffusé sous licence :\n\nCreative Commons Attribution – Pas d’Utilisation Commerciale –\nPas de Modification 4.0 International (CC BY-NC-ND 4.0)\n\nAll teaching materials on this site are licensed under:\n\nCreative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+    "text": "🇫🇷 Français\n🇬🇧 English\n\n\n\n\nL’ensemble des supports pédagogiques est diffusé sous licence :Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)\nAll teaching materials on this site are licensed under:Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
   }
 ]
