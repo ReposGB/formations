@@ -22,7 +22,7 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 ## Supports de cours magistraux
 
 | Titre | Niveau | Supports |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Analyse bioinformatique des données moléculaires à haut débit en Oncologie** | M1 | [Support](./cours/Cours-Master-M1-Genomique-Variants_RNA_Seq.html) |
 | **Data classification and application in genomics and transcriptomics** | M2 | [Support](./cours/M2-Bio-Sante-IA-Biomarkers-Classif-Genomics-Data.html) |
 | **Analyse bioinformatique appliquée à l’Oncologie: Analyses RNA-seq et Single Cell RNA-seq** | M2 | [Support](./cours/Cours-M2_Technologies-de-la-Santé_RNA-Seq_Single-Cell.html) |
@@ -32,23 +32,25 @@ Les **données** sont fournies sous forme d’objets **R** (`.RData`), à charge
 ## Travaux Dirigés
 
 | Titre | Niveau | Supports |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Etude d'un pipeline d'appel de variants constitutionnels** | M2 | [Support](./cours/TD_Master_Bioinfo_DNA-seq_appel_de_variants.html) |
 
 ## Formations
 
 | Titre | Niveau | Supports |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Traiter ses données NGS (DNA-seq et RNA-seq) sous Linux** | Formation permanente | [Site web](https://reposgb.github.io/formation_ngs_linux/) |
 | **Analyser ses données de séquençage NGS RNA-seq sous R/Bioconductor** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r/) |
 | **Traiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul** | Formation Permanente | [Site web]() |
 | **Prise en main des analyses de données scRNA-Seq sous R+RStudio** | Formation permanente | [Site web]() |
 
-
-
 ## Licence
 
+::: {.card style="max-width: 600px; margin: auto; text-align: center; padding: 1em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 0.5rem;"}
 L’ensemble des supports pédagogiques est diffusé sous licence :
 
-[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/){rel="license" style="border-width:0"}\
-**Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**
+[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+**Creative Commons Attribution – Pas d’Utilisation Commerciale –\
+Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**
+:::
