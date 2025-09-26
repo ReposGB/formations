@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Formations et Cours en Bioinformatique"
+  title: "Formations en Bioinformatique"
   navbar:
     left:
       - href: index.qmd
