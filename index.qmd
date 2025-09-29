@@ -40,8 +40,8 @@ Les **travaux dirigés (TDs)** sont quant à eux plus détaillés et permettent 
 |------------------------|------------------------|------------------------|
 | **Traiter ses données NGS (DNA-seq et RNA-seq) sous Linux** | Formation permanente | [Site web](https://reposgb.github.io/formation_ngs_linux/) |
 | **Analyser ses données de séquençage NGS RNA-seq sous R/Bioconductor** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r/) |
-| **Traiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul** | Formation Permanente | [Site web en préparation]() |
-| **Prise en main des analyses de données scRNA-Seq sous R+RStudio** | Formation permanente | [Site web en préparation]() |
+| **Traiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul** | Formation Permanente | [Site web](https://reposgb.github.io/formation_single_cell_rnaseq_r) |
+| **Prise en main des analyses de données scRNA-Seq sous R+RStudio** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r) |
 
 ## Licence
 
