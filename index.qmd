@@ -36,12 +36,12 @@ Les **travaux dirigés (TDs)** sont quant à eux plus détaillés et permettent 
 
 ## Formations
 
-| Titre | Niveau | Supports |
+| Date | Titre | Niveau | Supports |
 |------------------------|------------------------|------------------------|
-| **Traiter ses données NGS (DNA-seq et RNA-seq) sous Linux** | Formation permanente | [Site web](https://reposgb.github.io/formation_ngs_linux/) |
-| **Analyser ses données de séquençage NGS RNA-seq sous R/Bioconductor** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r/) |
-| **Traiter ses données NGS (Single cell RNA-seq, RNA-seq bulk et DNA-seq) sous nf-core sur cluster de calcul** | Formation Permanente | [Site web](https://reposgb.github.io/formation_single_cell_rnaseq_r) |
-| **Prise en main des analyses de données scRNA-Seq sous R+RStudio** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r) |
+| 11/2025 | **Traiter ses données NGS sous NF-core sur cluster de calcul** | Formation Permanente | [Site web](https://reposgb.github.io/formation_nfcore_linux) |
+| 11/2025 | **Prise en main des analyses de données scRNA-Seq sous R+RStudio** | Formation permanente | [Site web](https://reposgb.github.io/formation_single_cell_rnaseq_r) |
+| 09/2024 | **Traiter ses données NGS (DNA-seq et RNA-seq) sous Linux** | Formation permanente | [Site web](https://reposgb.github.io/formation_ngs_linux/) |
+| 09/2024 | **Analyser ses données de séquençage NGS RNA-seq sous R/Bioconductor** | Formation permanente | [Site web](https://reposgb.github.io/formation_rnaseq_r/) |
 
 ## Licence
 
