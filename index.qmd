@@ -1,7 +1,4 @@
-# Formations en Bioinformatique
-
-**Ghislain BIDAUT**\
-*Ingénieur de Recherche — Aix-Marseille Université*
+![](Bandeau_Formation.png){width=3000px}
 
 ------------------------------------------------------------------------
 
